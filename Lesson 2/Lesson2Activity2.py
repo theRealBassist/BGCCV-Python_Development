@@ -11,3 +11,7 @@
 # The combined string is ApJohnple
 
 ### Your code goes below here ###
+
+wordFirst = input("Enter the first string: ")
+wordSecond = input("Enter the second string: ")
+

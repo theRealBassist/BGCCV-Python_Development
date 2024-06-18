@@ -14,3 +14,6 @@
 # The middle letter of your name is e
 
 ### Your code goes below here ###
+
+userName = input("Enter your first name: ")
+
